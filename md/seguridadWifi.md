@@ -2,7 +2,7 @@
 ---
 
 <figure markdown>
-  ![Imatge 8](../../img/security.png){ width="300" }
+  ![Imatge 8](img/security.png){ width="300" }
 </figure>
 
 La información se manda codificada según la opción de seguridad elegida. Podremos ir incrementando la seguridad según nuestras necesidades. De menos a más seguras:
