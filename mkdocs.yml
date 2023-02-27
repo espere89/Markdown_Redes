@@ -1,6 +1,6 @@
 site_name: Redes de Ordenadores
-docs_dir: 'md'
-site_dir: 'docs'
+docs_dir: "md"
+site_dir: "docs"
 nav:
   - Introducción: index.md
   - Redes informáticas:
