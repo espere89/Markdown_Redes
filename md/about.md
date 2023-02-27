@@ -2,7 +2,7 @@
 ---
 
 <figure markdown>
-  ![Imatge 9](img/avatar.png){ width="200" }
+  ![Imatge 9](../img/avatar.png){ width="200" }
   <!-- <figcaption>Rack de comunicaciones</figcaption> -->
 </figure> 
 
