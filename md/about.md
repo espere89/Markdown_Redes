@@ -1,4 +1,4 @@
-# Sobre mí
+# Sobre nosotros
 ---
 
 <figure markdown>
@@ -7,4 +7,4 @@
 </figure> 
 
 
-Soy Pedro Santarrufina, profesor de informática en el IES Veles e Vents de Torrent y soy aficionado a la fotografía.
+Somos el grupos 1 de innovación del Master de Profesorado de Secundaria de la UV
